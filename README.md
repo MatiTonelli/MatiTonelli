@@ -1,4 +1,3 @@
-![hello-world](https://user-images.githubusercontent.com/85004434/200650256-9e6670df-bb51-4037-b064-123117077d94.gif)
 ### Hola soy Mati! 👋
 Recientemente me gradué en soyHenry como desarrollador Full-Stack y me encuentro en búsqueda de mi primer empleo. 
 
