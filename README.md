@@ -1,3 +1,4 @@
+![hello-world](https://user-images.githubusercontent.com/85004434/200650256-9e6670df-bb51-4037-b064-123117077d94.gif)
 ### Hola soy Mati! 👋
 Recientemente me gradué en soyHenry como desarrollador Full-Stack y me encuentro en búsqueda de mi primer empleo. 
 
@@ -14,6 +15,9 @@ Y tambien tengo experiencia trabajando con la metodología: SCRUM
 
 Mi amor por la programación comenzó cuando me encontraba estudiando Ingeniería en Computación, en la Universidad Nacional de Tres de Febrero (UNTREF). Avance y complete toda esta rama y quise aprender mas, ahi es cuando encuentro Henry.
 Actualmente sigo instruyéndome en este campo mediante cursos de diferentes lenguajes.
+
+No dudes en contactarme: 
+matias.tonelli@outlook.com 📩
 <!--
 **MatiTonelli/MatiTonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
