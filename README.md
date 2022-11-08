@@ -6,9 +6,12 @@ Recientemente me gradué en soyHenry como desarrollador Full-Stack y me encuentr
 Tengo experiencia trabajando con tecnologías como:
 - JavaScript
 - React
-- Redux
+- NodeJS
 - PostgreSQL
 - MongoDB
+- Redux
+- Express
+- Firebase
 - Chakra UI
  ... entre otras
 
