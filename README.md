@@ -23,7 +23,8 @@ Actualmente sigo instruyéndome en este campo mediante cursos de diferentes leng
 No dudes en contactarme: 
 matias.tonelli@outlook.com 📩
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matitonelli&show_icons=true&locale=en&layout=compact" alt="matitonelli" /></p>
-
+<br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matitonelli&show_icons=true&locale=en" alt="matitonelli" /></p>
 <!--
 **MatiTonelli/MatiTonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
